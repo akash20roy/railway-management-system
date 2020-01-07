@@ -1,0 +1,10 @@
+.display-3{
+    height: none;
+    padding-left: 250px;
+}
+.dropdown{
+    padding-left: 300px;
+}
+.dropdown-menu{
+    position: initial;
+}

@@ -1,0 +1,23 @@
+.navbar{
+    background: black;
+    height: 60px;
+}
+.display-3{
+    height: none;
+    padding-left: 100px;
+}
+.img{
+background-position: center;
+}
+
+
+.jumbotron{
+    padding: 0px;
+}
+
+
+.container{
+    background-image: url('../../assets/1920-engine.jpg');
+    padding-bottom: 500px;
+    
+}
